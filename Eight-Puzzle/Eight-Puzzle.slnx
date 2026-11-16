@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Eight-Puzzle/Eight-Puzzle.vcxproj" Id="8efe0012-debd-45cb-aa66-05dc56f70c31" />
+</Solution>
